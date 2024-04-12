@@ -1,6 +1,6 @@
 -  Hi, I’m @ONYANGO-ALGORE
 -  I’m interested in ...DevOps
--  I’m looking to collaborate on ...web and front-end development
+-  I’m looking to collaborate and to learn skills on ...web and front-end development
 - 📫 How to reach me ... onyangoalgore@gmail.com
 <!---
 ONYANGO-ALGORE/ONYANGO-ALGORE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
