@@ -1,4 +1,4 @@
 -  Hi, I’m @ONYANGO-ALGORE
--  I’m interested in ...DevOps
--  I’m looking to collaborate and to learn skills on ...web and front-end development
-- 📫 How to reach me ... onyangoalgore@gmail.com
+-  I’m interested in Web Development 
+-  I’m looking to collaborate and to learn skills on front-end and back-end development using MERN stack
+- 📫 How to reach me **onyangoalgore@gmail.com**
